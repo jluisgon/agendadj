@@ -1,0 +1,4 @@
+# git ignore
+agenda/secret.json
+#
+#blog/applications/users/migrations/*
